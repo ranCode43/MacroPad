@@ -1,0 +1,33 @@
+{
+    "keyboard_name": "Hackpad3",
+    "manufacturer": "custom",
+    "url": "https://github.com/rocks/hackpad3",
+    "maintainer": "you",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0003",
+        "device_version": "1.0.0"
+    },
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "direct": [
+            ["GP2", "GP4", "GP3"]
+        ]
+    },
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "nkro": true
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0}
+            ]
+        }
+    }
+}
