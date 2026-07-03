@@ -1,0 +1,8 @@
+Item,Qty,Description,Est. Unit Cost,Est. Total,Source/Link
+Seeed XIAO RP2040 (pre-soldered, w/ USB-C cable),1,RP2040-based microcontroller board,$11.00,$11.00,https://www.amazon.com/Seeed-Studio-RP2040-Pre-Soldered-USB-C/dp/B0BWD75VNF
+Mechanical switches,3,MX-compatible linear switches,$0.40,$1.20,https://www.amazon.com/GATERON-Keyboard-Switches-Sample-Mechanical/dp/B0CY1N5VC5
+Keycaps,3,MX-compatible keycaps,$1.30,$4.00,https://www.amazon.com/s?k=mx+keycaps+small+set
+Perfboard,1,Small prototyping board for hand-wiring,$4.00,$4.00,https://www.amazon.com/s?k=perfboard+prototype+board+pack
+Hookup wire,1,22-24 AWG wire for point-to-point wiring,$4.00,$4.00,https://www.amazon.com/s?k=22+awg+hookup+wire+kit
+Solder,1,Rosin core solder,$5.00,$5.00,https://www.amazon.com/s?k=rosin+core+solder
+Total,,,,$29.20,
