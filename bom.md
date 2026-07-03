@@ -1,3 +1,4 @@
+[bom.csv](https://github.com/user-attachments/files/29617886/bom.csv)
 Item,Qty,Description,Est. Unit Cost,Est. Total,Source/Link
 Seeed XIAO RP2040 (pre-soldered, w/ USB-C cable),1,RP2040-based microcontroller board,$11.00,$11.00,https://www.amazon.com/Seeed-Studio-RP2040-Pre-Soldered-USB-C/dp/B0BWD75VNF
 Mechanical switches,3,MX-compatible linear switches,$0.40,$1.20,https://www.amazon.com/GATERON-Keyboard-Switches-Sample-Mechanical/dp/B0CY1N5VC5
